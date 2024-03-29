@@ -12,53 +12,16 @@ With the current trend of automation gradually dominating many aspects of human 
 
 ### Module 1: Detect and classify traffic signs
 
-- Model: [**PP-YOLOE+**](https://arxiv.org/abs/2203.16250) from [Paddle Detection](https://github.com/PaddlePaddle/PaddleDetection/)
+- Model: [**PP-YOLOE+**](https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.7/configs/ppyoloe) from [Paddle Detection](https://github.com/PaddlePaddle/PaddleDetection/)
 
-<table>
-  <tbody>
-    <tr>
-      <td width="35%">
-        <figure style="width:95%">
-          <img src="images/system/ppyoloe_plus_mscoco_comparison.png"
-            alt="ppyoloe_plus_mscoco">
-          <figcaption style="text-align: center;font-style: italic;">MS COCO performance comparison <a href="https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.7/configs/ppyoloe">🡵</a></figcaption>
-        </figure>
-      </td>
-      <td>
-        <figure style="width:95%">
-          <img src="images/system/ppyoloe_architecture.png"
-            alt="ppyoloe_architecture">
-          <figcaption style="text-align: center;font-style: italic;">PP-YOLOE architecture <a href="https://arxiv.org/abs/2203.16250">🡵</a></figcaption>
-        </figure>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<figure style="width:90%">
+  <img src="images/system/ppyoloe_architecture.png"
+    alt="ppyoloe_architecture">
+  <figcaption style="text-align: center;font-style: italic;">PP-YOLOE architecture <a href="https://arxiv.org/abs/2203.16250">🡵</a></figcaption>
+</figure>
 
 ### Module 2: Detect text box on traffic signs
 
-- Model: [**PP-YOLOE+**](https://arxiv.org/abs/2203.16250) from [Paddle Detection](https://github.com/PaddlePaddle/PaddleDetection/)
-
-<table>
-  <tbody>
-    <tr>
-      <td width="35%">
-        <figure style="width:95%">
-          <img src="images/system/ppyoloe_plus_mscoco_comparison.png"
-            alt="ppyoloe_plus_mscoco">
-          <figcaption style="text-align: center;font-style: italic;">MS COCO performance comparison <a href="https://github.com/PaddlePaddle/PaddleDetection/tree/release/2.7/configs/ppyoloe">🡵</a></figcaption>
-        </figure>
-      </td>
-      <td>
-        <figure style="width:95%">
-          <img src="images/system/ppyoloe_architecture.png"
-            alt="ppyoloe_architecture">
-          <figcaption style="text-align: center;font-style: italic;">PP-YOLOE architecture <a href="https://arxiv.org/abs/2203.16250">🡵</a></figcaption>
-        </figure>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ## Samples
 
