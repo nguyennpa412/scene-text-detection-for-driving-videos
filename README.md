@@ -17,18 +17,13 @@ With the current trend of automation gradually dominating many aspects of human 
 <figure style="width:90%">
   <img src="images/system/ppyoloe_architecture.png"
     alt="ppyoloe_architecture">
-  <figcaption align="center" style="font-style: italic;">PP-YOLOE architecture <a href="https://arxiv.org/abs/2203.16250">🡵</a></figcaption>
+  <p align="center" style="font-style: italic;">PP-YOLOE architecture <a href="https://arxiv.org/abs/2203.16250">🡵</a></p>
 </figure>
 
 ### Module 2: Detect text box on traffic signs
 
 - Model: [**PP-OCRv3**](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.7/doc/doc_en/ppocr_introduction_en.md#pp-ocrv3) from [Paddle OCR](https://github.com/PaddlePaddle/PaddleOCR)
 
-<figure style="width:90%">
-  <img src="images/system/ppyoloe_architecture.png"
-    alt="ppyoloe_architecture">
-  <figcaption align="center" style="font-style: italic;">PP-OCRv3 architecture <a href="https://arxiv.org/abs/2206.03001">🡵</a></figcaption>
-</figure>
 
 ## Data
 
