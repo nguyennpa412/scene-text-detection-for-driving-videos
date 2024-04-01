@@ -17,7 +17,7 @@ With the current trend of automation gradually dominating many aspects of human 
 <figure style="width:90%">
   <img src="images/system/ppyoloe_architecture.png"
     alt="ppyoloe_architecture">
-  <p align="center" style="font-style: italic;">PP-YOLOE architecture <a href="https://arxiv.org/abs/2203.16250">🡵</a></p>
+  <p align="center"><em>PP-YOLOE architecture <a href="https://arxiv.org/abs/2203.16250">🡵</a></em></p>
 </figure>
 
 ### Module 2: Detect text box on traffic signs
