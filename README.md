@@ -41,7 +41,7 @@ With the current trend of automation gradually dominating many aspects of human 
   <tbody>
     <tr>
       <td>#1</td>
-      <td><b>Vietnam Traffic Signs Dataset</b></td>
+      <td><b><a href="https://github.com/Flavius1996/VNTS-faster-rcnn">Vietnam Traffic Signs Dataset</a></b></td>
       <td>Open source recorded traffic videos around Ho Chi Minh City</td>
       <td>40 videos (total length: 1h24m44s)</td>
       <td>Finetuning + Testing</td>
@@ -49,7 +49,7 @@ With the current trend of automation gradually dominating many aspects of human 
     </tr>
     <tr>
       <td>#2</td>
-      <td><b>VinText</b></td>
+      <td><b><a href="https://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Dictionary-Guided_Scene_Text_Recognition_CVPR_2021_paper.html">VinText</a></b></td>
       <td>Largest Vietnamese Scene text dataset</td>
       <td>2,000 labeled images, ~56,000 text objects (~10,500 unique objects)</td>
       <td>Testing</td>
@@ -57,7 +57,7 @@ With the current trend of automation gradually dominating many aspects of human 
     </tr>
     <tr>
       <td>#3</td>
-      <td><b>Zalo AI Challenge - Traffic Sign Detection Dataset</b></td>
+      <td><b><a href="https://challenge.zalo.ai/portal/traffic-sign-detection">Zalo AI Challenge - Traffic Sign Detection Dataset</a></b></td>
       <td>Zalo AI Challenge dataset for “Traffic Signs Detection" contest in 2020 with image data collected from Google Map Street View</td>
       <td>~8,000 traffic images with traffic sign labels</td>
       <td>Testing</td>
