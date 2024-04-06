@@ -166,7 +166,7 @@ Since Dataset #1 was used in another project with different output, we need to r
   <img src="images/samples/improved_sample.png"
     alt="improved_sample">
   </br>
-  <em>Improvement sample</em>
+  <em>Improvement sample</br>(above and below images are before and after improvement, respectively)</em>
 </p>
 
 ## Video output samples
